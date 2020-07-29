@@ -1,0 +1,298 @@
+01/01/2020,AQS,360810124,1,13.7,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/02/2020,AQS,360810124,1,41.9,ppb,39,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/03/2020,AQS,360810124,1,35.2,ppb,33,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/04/2020,AQS,360810124,1,30,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/05/2020,AQS,360810124,1,13.8,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/06/2020,AQS,360810124,1,39.5,ppb,37,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/07/2020,AQS,360810124,1,40.3,ppb,38,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/08/2020,AQS,360810124,1,26.6,ppb,25,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/09/2020,AQS,360810124,1,42.2,ppb,40,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/10/2020,AQS,360810124,1,43.6,ppb,41,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/11/2020,AQS,360810124,1,39.1,ppb,37,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/12/2020,AQS,360810124,1,18.6,ppb,17,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/13/2020,AQS,360810124,1,24.3,ppb,23,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/14/2020,AQS,360810124,1,25.7,ppb,24,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/15/2020,AQS,360810124,1,40.8,ppb,38,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/17/2020,AQS,360810124,1,19.1,ppb,18,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/18/2020,AQS,360810124,1,41.7,ppb,39,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/19/2020,AQS,360810124,1,21.8,ppb,20,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/20/2020,AQS,360810124,1,16.3,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/21/2020,AQS,360810124,1,44.5,ppb,42,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/22/2020,AQS,360810124,1,61.9,ppb,58,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/23/2020,AQS,360810124,1,52.4,ppb,49,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/24/2020,AQS,360810124,1,56.3,ppb,53,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/25/2020,AQS,360810124,1,32.5,ppb,30,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/26/2020,AQS,360810124,1,24.5,ppb,23,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/27/2020,AQS,360810124,1,26.2,ppb,25,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/28/2020,AQS,360810124,1,16.8,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/29/2020,AQS,360810124,1,21,ppb,20,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/30/2020,AQS,360810124,1,45,ppb,42,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/31/2020,AQS,360810124,1,46.8,ppb,43,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/01/2020,AQS,360810124,1,40.9,ppb,38,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/02/2020,AQS,360810124,1,28.9,ppb,26,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/03/2020,AQS,360810124,1,48.6,ppb,45,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/04/2020,AQS,360810124,1,53,ppb,50,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/05/2020,AQS,360810124,1,37,ppb,35,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/06/2020,AQS,360810124,1,23.3,ppb,22,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/07/2020,AQS,360810124,1,24.3,ppb,23,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/08/2020,AQS,360810124,1,45.4,ppb,42,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/09/2020,AQS,360810124,1,26.2,ppb,25,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/10/2020,AQS,360810124,1,29.8,ppb,27,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/11/2020,AQS,360810124,1,30.2,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/12/2020,AQS,360810124,1,20.6,ppb,19,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/13/2020,AQS,360810124,1,42.6,ppb,40,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/14/2020,AQS,360810124,1,16.3,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/15/2020,AQS,360810124,1,25.7,ppb,24,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/16/2020,AQS,360810124,1,53.7,ppb,50,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/17/2020,AQS,360810124,1,51.1,ppb,48,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/18/2020,AQS,360810124,1,39.2,ppb,37,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/19/2020,AQS,360810124,1,37.2,ppb,35,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/20/2020,AQS,360810124,1,21.8,ppb,20,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/21/2020,AQS,360810124,1,31.2,ppb,29,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/22/2020,AQS,360810124,1,38.4,ppb,36,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/23/2020,AQS,360810124,1,49.8,ppb,46,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/24/2020,AQS,360810124,1,49.3,ppb,46,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/25/2020,AQS,360810124,1,41.7,ppb,39,QUEENS COLLEGE 2,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/26/2020,AQS,360810124,1,23.9,ppb,22,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/27/2020,AQS,360810124,1,24.6,ppb,23,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/28/2020,AQS,360810124,1,17.1,ppb,16,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+02/29/2020,AQS,360810124,1,13,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/01/2020,AQS,360810124,1,50.8,ppb,47,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/02/2020,AQS,360810124,1,50.9,ppb,47,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/03/2020,AQS,360810124,1,34.5,ppb,32,QUEENS COLLEGE 2,22,92.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/04/2020,AQS,360810124,1,18.1,ppb,17,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/05/2020,AQS,360810124,1,18.2,ppb,17,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/06/2020,AQS,360810124,1,46,ppb,43,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/07/2020,AQS,360810124,1,16.1,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/08/2020,AQS,360810124,1,29.2,ppb,27,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/09/2020,AQS,360810124,1,45.7,ppb,42,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/10/2020,AQS,360810124,1,46.4,ppb,43,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/11/2020,AQS,360810124,1,47.2,ppb,44,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/12/2020,AQS,360810124,1,52.3,ppb,49,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/13/2020,AQS,360810124,1,13.3,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/14/2020,AQS,360810124,1,10,ppb,9,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/15/2020,AQS,360810124,1,30.6,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/16/2020,AQS,360810124,1,10.4,ppb,9,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/17/2020,AQS,360810124,1,32.4,ppb,30,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/18/2020,AQS,360810124,1,39,ppb,37,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/19/2020,AQS,360810124,1,30.6,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/20/2020,AQS,360810124,1,25.3,ppb,24,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/21/2020,AQS,360810124,1,6.6,ppb,6,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/22/2020,AQS,360810124,1,6.9,ppb,6,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/23/2020,AQS,360810124,1,13.5,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/24/2020,AQS,360810124,1,23.3,ppb,22,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/25/2020,AQS,360810124,1,16.1,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/26/2020,AQS,360810124,1,23.5,ppb,22,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/27/2020,AQS,360810124,1,38.1,ppb,36,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/28/2020,AQS,360810124,1,17.4,ppb,16,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/29/2020,AQS,360810124,1,6,ppb,6,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/30/2020,AQS,360810124,1,23.3,ppb,22,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+03/31/2020,AQS,360810124,1,9.4,ppb,8,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/01/2020,AQS,360810124,1,13.3,ppb,12,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/02/2020,AQS,360810124,1,14,ppb,13,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/03/2020,AQS,360810124,1,9.5,ppb,8,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/04/2020,AQS,360810124,1,11.4,ppb,10,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/05/2020,AQS,360810124,1,24.5,ppb,23,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/06/2020,AQS,360810124,1,30.3,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/07/2020,AQS,360810124,1,16.8,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/08/2020,AQS,360810124,1,23.5,ppb,22,QUEENS COLLEGE 2,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/09/2020,AQS,360810124,1,21.9,ppb,20,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/10/2020,AQS,360810124,1,10.6,ppb,9,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/11/2020,AQS,360810124,1,20.9,ppb,19,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/12/2020,AQS,360810124,1,48.3,ppb,45,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/13/2020,AQS,360810124,1,9.7,ppb,8,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/14/2020,AQS,360810124,1,13.6,ppb,12,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/15/2020,AQS,360810124,1,14,ppb,13,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/16/2020,AQS,360810124,1,10.9,ppb,9,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/17/2020,AQS,360810124,1,15.7,ppb,14,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/18/2020,AQS,360810124,1,15,ppb,14,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/19/2020,AQS,360810124,1,36.8,ppb,34,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/20/2020,AQS,360810124,1,21.9,ppb,20,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/23/2020,AQS,360810124,1,22.8,ppb,21,QUEENS COLLEGE 2,23,96.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/24/2020,AQS,360810124,1,35.7,ppb,33,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/25/2020,AQS,360810124,1,36.8,ppb,34,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/26/2020,AQS,360810124,1,10.1,ppb,9,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/27/2020,AQS,360810124,1,12.4,ppb,11,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/28/2020,AQS,360810124,1,27.1,ppb,25,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/29/2020,AQS,360810124,1,28.7,ppb,26,QUEENS COLLEGE 2,20,83.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+04/30/2020,AQS,360810124,1,5.7,ppb,5,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/01/2020,AQS,360810124,1,18.4,ppb,17,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/02/2020,AQS,360810124,1,15.2,ppb,14,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/03/2020,AQS,360810124,1,14.3,ppb,13,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/04/2020,AQS,360810124,1,15.9,ppb,14,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/05/2020,AQS,360810124,1,23,ppb,22,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/06/2020,AQS,360810124,1,30.1,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/07/2020,AQS,360810124,1,38.6,ppb,36,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/08/2020,AQS,360810124,1,14.3,ppb,13,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/09/2020,AQS,360810124,1,6.1,ppb,6,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/10/2020,AQS,360810124,1,11.9,ppb,10,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/11/2020,AQS,360810124,1,37.1,ppb,35,QUEENS COLLEGE 2,22,92.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/12/2020,AQS,360810124,1,9.2,ppb,8,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/13/2020,AQS,360810124,1,45.8,ppb,42,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/14/2020,AQS,360810124,1,43,ppb,41,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/15/2020,AQS,360810124,1,30.9,ppb,28,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/16/2020,AQS,360810124,1,18,ppb,17,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/17/2020,AQS,360810124,1,5.6,ppb,5,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/18/2020,AQS,360810124,1,8.1,ppb,8,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/19/2020,AQS,360810124,1,7.3,ppb,7,QUEENS COLLEGE 2,23,96.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/20/2020,AQS,360810124,1,9.7,ppb,8,QUEENS COLLEGE 2,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/21/2020,AQS,360810124,1,28,ppb,26,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/22/2020,AQS,360810124,1,29.5,ppb,27,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/23/2020,AQS,360810124,1,11.8,ppb,10,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/24/2020,AQS,360810124,1,7,ppb,7,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/25/2020,AQS,360810124,1,28.9,ppb,26,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/26/2020,AQS,360810124,1,14.9,ppb,13,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/27/2020,AQS,360810124,1,14.7,ppb,13,QUEENS COLLEGE 2,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/28/2020,AQS,360810124,1,17.4,ppb,16,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/29/2020,AQS,360810124,1,16.4,ppb,15,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/30/2020,AQS,360810124,1,20.6,ppb,19,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+05/31/2020,AQS,360810124,1,4.2,ppb,4,QUEENS COLLEGE 2,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.73614,-73.82153
+01/01/2020,AQS,360810125,1,17.7,ppb,16,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/02/2020,AQS,360810125,1,37.9,ppb,35,Queens College Near Road,23,96.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/03/2020,AQS,360810125,1,32.5,ppb,30,Queens College Near Road,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/04/2020,AQS,360810125,1,26.2,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/05/2020,AQS,360810125,1,18.2,ppb,17,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/06/2020,AQS,360810125,1,36.5,ppb,34,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/07/2020,AQS,360810125,1,37.5,ppb,35,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/08/2020,AQS,360810125,1,24.7,ppb,23,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/09/2020,AQS,360810125,1,38,ppb,36,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/10/2020,AQS,360810125,1,39.2,ppb,37,Queens College Near Road,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/11/2020,AQS,360810125,1,33.7,ppb,31,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/12/2020,AQS,360810125,1,22.8,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/13/2020,AQS,360810125,1,43.2,ppb,41,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/14/2020,AQS,360810125,1,26.2,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/15/2020,AQS,360810125,1,37.1,ppb,35,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/16/2020,AQS,360810125,1,22,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/17/2020,AQS,360810125,1,21.6,ppb,20,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/18/2020,AQS,360810125,1,39.9,ppb,37,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/19/2020,AQS,360810125,1,21.5,ppb,20,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/20/2020,AQS,360810125,1,21.5,ppb,20,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/21/2020,AQS,360810125,1,49.5,ppb,46,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/22/2020,AQS,360810125,1,54.1,ppb,51,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/23/2020,AQS,360810125,1,46.7,ppb,43,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/24/2020,AQS,360810125,1,54.4,ppb,51,Queens College Near Road,22,92.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/25/2020,AQS,360810125,1,34.1,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/26/2020,AQS,360810125,1,22.8,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/27/2020,AQS,360810125,1,24.6,ppb,23,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/28/2020,AQS,360810125,1,22.9,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/29/2020,AQS,360810125,1,30,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/30/2020,AQS,360810125,1,43.3,ppb,41,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+01/31/2020,AQS,360810125,1,49.3,ppb,46,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/01/2020,AQS,360810125,1,37.7,ppb,35,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/02/2020,AQS,360810125,1,25.9,ppb,24,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/03/2020,AQS,360810125,1,45.8,ppb,42,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/04/2020,AQS,360810125,1,46.3,ppb,43,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/05/2020,AQS,360810125,1,33.9,ppb,31,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/06/2020,AQS,360810125,1,40,ppb,38,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/07/2020,AQS,360810125,1,36.7,ppb,34,Queens College Near Road,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/08/2020,AQS,360810125,1,41.9,ppb,39,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/09/2020,AQS,360810125,1,30.5,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/10/2020,AQS,360810125,1,28.3,ppb,26,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/11/2020,AQS,360810125,1,56.4,ppb,53,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/12/2020,AQS,360810125,1,28.6,ppb,26,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/13/2020,AQS,360810125,1,44.8,ppb,42,Queens College Near Road,23,96.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/14/2020,AQS,360810125,1,23.4,ppb,22,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/15/2020,AQS,360810125,1,25.8,ppb,24,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/16/2020,AQS,360810125,1,46.7,ppb,43,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/17/2020,AQS,360810125,1,46.9,ppb,43,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/18/2020,AQS,360810125,1,55.8,ppb,52,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/19/2020,AQS,360810125,1,34.3,ppb,32,Queens College Near Road,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/20/2020,AQS,360810125,1,27.8,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/21/2020,AQS,360810125,1,28.6,ppb,26,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/22/2020,AQS,360810125,1,34.8,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/23/2020,AQS,360810125,1,44.8,ppb,42,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/24/2020,AQS,360810125,1,45.2,ppb,42,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/26/2020,AQS,360810125,1,50.6,ppb,47,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/27/2020,AQS,360810125,1,29.6,ppb,27,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/28/2020,AQS,360810125,1,19.9,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+02/29/2020,AQS,360810125,1,14.9,ppb,13,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/01/2020,AQS,360810125,1,47.5,ppb,44,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/02/2020,AQS,360810125,1,47.3,ppb,44,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/03/2020,AQS,360810125,1,35,ppb,33,Queens College Near Road,23,96.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/04/2020,AQS,360810125,1,19,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/05/2020,AQS,360810125,1,25.6,ppb,24,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/06/2020,AQS,360810125,1,60.5,ppb,57,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/07/2020,AQS,360810125,1,22.5,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/08/2020,AQS,360810125,1,30.2,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/09/2020,AQS,360810125,1,42.6,ppb,40,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/10/2020,AQS,360810125,1,45.2,ppb,42,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/11/2020,AQS,360810125,1,44.3,ppb,42,Queens College Near Road,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/12/2020,AQS,360810125,1,50.5,ppb,47,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/13/2020,AQS,360810125,1,20.7,ppb,19,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/14/2020,AQS,360810125,1,16.6,ppb,15,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/15/2020,AQS,360810125,1,29.7,ppb,27,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/16/2020,AQS,360810125,1,41,ppb,39,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/17/2020,AQS,360810125,1,30.4,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/18/2020,AQS,360810125,1,43.6,ppb,41,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/19/2020,AQS,360810125,1,32.1,ppb,30,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/20/2020,AQS,360810125,1,23.4,ppb,22,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/21/2020,AQS,360810125,1,12.1,ppb,11,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/22/2020,AQS,360810125,1,7.4,ppb,7,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/23/2020,AQS,360810125,1,32.1,ppb,30,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/24/2020,AQS,360810125,1,29.9,ppb,27,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/25/2020,AQS,360810125,1,34.4,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/26/2020,AQS,360810125,1,30.8,ppb,28,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/27/2020,AQS,360810125,1,39.6,ppb,37,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/28/2020,AQS,360810125,1,24.6,ppb,23,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/29/2020,AQS,360810125,1,9.8,ppb,8,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/30/2020,AQS,360810125,1,32.9,ppb,30,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+03/31/2020,AQS,360810125,1,25,ppb,24,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/01/2020,AQS,360810125,1,27,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/02/2020,AQS,360810125,1,19.5,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/03/2020,AQS,360810125,1,13.9,ppb,12,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/04/2020,AQS,360810125,1,10.9,ppb,9,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/05/2020,AQS,360810125,1,27.6,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/06/2020,AQS,360810125,1,32.4,ppb,30,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/07/2020,AQS,360810125,1,24.8,ppb,23,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/09/2020,AQS,360810125,1,22.7,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/10/2020,AQS,360810125,1,11.2,ppb,10,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/11/2020,AQS,360810125,1,30.6,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/12/2020,AQS,360810125,1,43.3,ppb,41,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/13/2020,AQS,360810125,1,8.2,ppb,8,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/14/2020,AQS,360810125,1,17.6,ppb,16,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/15/2020,AQS,360810125,1,17.9,ppb,16,Queens College Near Road,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/17/2020,AQS,360810125,1,23.1,ppb,22,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/18/2020,AQS,360810125,1,20.2,ppb,19,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/19/2020,AQS,360810125,1,34.4,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/20/2020,AQS,360810125,1,24.1,ppb,23,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/21/2020,AQS,360810125,1,23.3,ppb,22,Queens College Near Road,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/22/2020,AQS,360810125,1,17.2,ppb,16,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/23/2020,AQS,360810125,1,29,ppb,27,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/24/2020,AQS,360810125,1,34.8,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/25/2020,AQS,360810125,1,34.3,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/26/2020,AQS,360810125,1,11.7,ppb,10,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/27/2020,AQS,360810125,1,16.7,ppb,15,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/28/2020,AQS,360810125,1,28.7,ppb,26,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/29/2020,AQS,360810125,1,31.3,ppb,29,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+04/30/2020,AQS,360810125,1,19.4,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/01/2020,AQS,360810125,1,22.3,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/02/2020,AQS,360810125,1,15.8,ppb,14,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/03/2020,AQS,360810125,1,13.2,ppb,12,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/04/2020,AQS,360810125,1,30.7,ppb,28,Queens College Near Road,18,75.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/05/2020,AQS,360810125,1,28,ppb,26,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/06/2020,AQS,360810125,1,28.4,ppb,26,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/07/2020,AQS,360810125,1,38.3,ppb,36,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/08/2020,AQS,360810125,1,27.1,ppb,25,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/09/2020,AQS,360810125,1,9.4,ppb,8,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/10/2020,AQS,360810125,1,11.5,ppb,10,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/11/2020,AQS,360810125,1,34.2,ppb,32,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/12/2020,AQS,360810125,1,14.5,ppb,13,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/13/2020,AQS,360810125,1,42.6,ppb,40,Queens College Near Road,22,92.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/14/2020,AQS,360810125,1,44.2,ppb,42,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/15/2020,AQS,360810125,1,31.9,ppb,29,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/16/2020,AQS,360810125,1,19.4,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/17/2020,AQS,360810125,1,6.6,ppb,6,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/18/2020,AQS,360810125,1,49.9,ppb,46,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/19/2020,AQS,360810125,1,28.7,ppb,26,Queens College Near Road,19,79.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/20/2020,AQS,360810125,1,23.5,ppb,22,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/21/2020,AQS,360810125,1,31.8,ppb,29,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/22/2020,AQS,360810125,1,30.8,ppb,28,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/23/2020,AQS,360810125,1,15.8,ppb,14,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/24/2020,AQS,360810125,1,13.2,ppb,12,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/25/2020,AQS,360810125,1,19,ppb,18,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/26/2020,AQS,360810125,1,17.2,ppb,16,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/27/2020,AQS,360810125,1,17,ppb,16,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/28/2020,AQS,360810125,1,16.6,ppb,15,Queens College Near Road,21,88.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/29/2020,AQS,360810125,1,12.3,ppb,11,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/30/2020,AQS,360810125,1,22.3,ppb,21,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
+05/31/2020,AQS,360810125,1,8.4,ppb,8,Queens College Near Road,24,100.0000,42602,Nitrogen dioxide (NO2),35620,New York-Newark-Jersey City, NY-NJ-PA,36,New York,081,Queens,40.739264,-73.817694
